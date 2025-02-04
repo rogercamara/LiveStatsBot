@@ -50,4 +50,5 @@ Of course that you need to have Node.js installed on your machine. Additionally,
    ```
 
 # Screenshot
+![alt text](https://raw.githubusercontent.com/rogercamara/LiveStatsBot/refs/heads/main/screenshot.jpg))
 
