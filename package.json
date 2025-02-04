@@ -1,7 +1,7 @@
 {
-  "name": "discord-bot",
+  "name": "scoutmeister",
   "version": "1.0.0",
-  "description": "A simple Discord bot using discord.js",
+  "description": "work in progress live stats bot",
   "main": "src/bot.js",
   "scripts": {
     "start": "node src/bot.js"
@@ -13,9 +13,7 @@
     "discord.js": "^14.17.3",
     "fs": "^0.0.1-security",
     "node-schedule": "^2.1.1",
-    "qrcode-terminal": "^0.12.0",
-    "whatsapp-web.js": "^1.26.0"
   },
-  "author": "",
+  "author": "Roger Camara - RogerVerso",
   "license": "ISC"
 }
