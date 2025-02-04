@@ -31,17 +31,26 @@ To run this bot, you need to have Node.js installed on your machine. Additionall
    ```bash
    git clone https://github.com/rogercamara/LiveStatsBot.git
    cd LiveStatsBot
+   npm install discord.js node-schedule
    ```
 
-2. Change your information in config.json (I recomend using a .env, but i like to take risks)
+2. Change your information in **config.json** (I recomend using a .env, but i like to take risks)
 
-```json
-{
-  "token": "TOKEN",
-  "clientId": "BOT_CLIENT_ID",
-  "guildId": "DISCORD_CHANNEl_ID",
-  "channelId": "DISCORD_ROOM_ID"
-}
-```
-dsd
+   ```json
+   {
+     "token": "TOKEN",
+     "clientId": "BOT_CLIENT_ID",
+     "guildId": "DISCORD_CHANNEl_ID",
+     "channelId": "DISCORD_ROOM_ID"
+   }
+   ```
+
+
+3. Let him cook
+
+   ```bash
+   npm start
+   ```
+
+# Screenshot
 
