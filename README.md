@@ -29,19 +29,19 @@ To run this bot, you need to have Node.js installed on your machine. Additionall
 1. **Clone the Repository or report me cuz im designer:**
 
    ```bash
-   git clone [<repository-url>](https://github.com/rogercamara/LiveStatsBot.git)
+   git clone https://github.com/rogercamara/LiveStatsBot.git
    cd LiveStatsBot
+   ```
 
 2. Change your information in config.json (I recomend using a .env, but i like to take risks)
 
-   ```json
+```json
 {
   "token": "TOKEN",
   "clientId": "BOT_CLIENT_ID",
   "guildId": "DISCORD_CHANNEl_ID",
   "channelId": "DISCORD_ROOM_ID"
 }
+```
+dsd
 
-### Run
-
-Let him cook by using a **npm start**
